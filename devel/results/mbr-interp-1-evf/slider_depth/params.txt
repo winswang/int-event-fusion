@@ -1,0 +1,1 @@
+{"shape_mode": 0, "init_mode": 1, "noise_a": 0.1, "ev_weight": 0.02, "tanh_coef": 10.0, "tv_coef_xy": 0.01, "tv_coef_t": 0.7, "lr": 0.005, "lr_update": 100, "epochs": 500}

@@ -1,0 +1,1 @@
+{"ev_weight": 7.0, "tanh_coef": 9.0, "tv_coef_xy": 0.25, "tv_coef_t": 22.0, "lr": 0.002, "lr_update": 200, "epochs": 1000}
